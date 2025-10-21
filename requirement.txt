@@ -1,0 +1,9 @@
+# File Integrity Checker
+# Uses only built-in Python libraries
+# Tested on Python 3.8+
+
+python>=3.8
+requests
+whois
+beautifulsoup4
+python-dateutil
